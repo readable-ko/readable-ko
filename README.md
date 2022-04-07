@@ -4,7 +4,8 @@
 ## 용이되고 싶은 이무기
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kth990303.tistory.com)](https://readble-ko.tistory.com/)  C++로 알고리즘 공부해보는 중
  
- [![SolvedAC tier](http://mazassumnida.wtf/api/generate_badge?boj=fpqpsxh)](https://solved.ac/profile/fpqpsxh)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fpqpsxh)](https://solved.ac/fpqpsxh)
  
 ### - 🔭 I'm currently working on ...
    1. Handong Global University 17 CSEE
