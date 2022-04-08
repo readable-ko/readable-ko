@@ -1,5 +1,5 @@
 
-# ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20HOME%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Welcome%20to%20Glory%27s%20Github%20Page%20%&descAlign=60&descAlignY=50)
+# ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Glory%27s%20Github___&fontAlign=80&fontAlignY=30&color=gradient)
 # 용이되고 싶은 이무기
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kth990303.tistory.com)](https://readble-ko.tistory.com/)  C++로 알고리즘 공부해보는 중
  
