@@ -1,6 +1,5 @@
 
 # ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Glory%27s%20Github___&fontAlign=80&fontAlignY=30&color=gradient)
-# 용이되고 싶은 이무기
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kth990303.tistory.com)](https://readble-ko.tistory.com/)  C++로 알고리즘 공부해보는 중
  
 [![Solved.ac
