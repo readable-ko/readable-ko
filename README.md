@@ -23,4 +23,4 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=readable-ko)](https://github.com/readable-ko/github-readme-stats)
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=&fontSize=30)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=&fontSize=30)
