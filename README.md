@@ -1,7 +1,6 @@
-# ProblemSolving
-백준, 프로그래머스, 리트코드 등 풀이 입니다.
 
-## 용이되고 싶은 이무기
+# ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20HOME%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Welcome%20to%20Glory%27s%20Github%20Page%20%&descAlign=60&descAlignY=50)
+# 용이되고 싶은 이무기
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kth990303.tistory.com)](https://readble-ko.tistory.com/)  C++로 알고리즘 공부해보는 중
  
 [![Solved.ac
@@ -22,3 +21,6 @@
 
 ### - 😄 Top Languages card
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=readable-ko)](https://github.com/readable-ko/github-readme-stats)
+
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=&fontSize=30)
