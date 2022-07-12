@@ -8,10 +8,12 @@
 ### - 🔭 I'm currently working on ...
    1. Handong Global University 17 CSEE
    2. Baekjoon SLE Group Study
-    - 100+ solved\
-    - SolvedAC GOLD IV Level
-   3. Mobile App Development Project 같이카
-    - With 지인, 상윤
+    - 200+ solved\
+    - SolvedAC GOLD III Level
+
+### - 🔈 I worked on ...
+   1. Mobile App Development Project 같이카
+    - With 지인, 상윤 (FINISH)
 
 ### - 🌱 I’m currently learning ...
   - OS <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
