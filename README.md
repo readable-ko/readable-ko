@@ -15,7 +15,7 @@
    1. Mobile App Development Project 같이카
     - With 지인, 상윤 (FINISH)
 
-### - 🌱 I’m currently learning ...
+### - 🌱 I’m currently studying ...
   - OS <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
   - Algorithm (language <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>)
   - DB(<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>)
