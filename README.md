@@ -8,8 +8,10 @@
    1. Handong Global University 17 CSEE
    2. Baekjoon SLE Group Study
    3. Handong Judo Club 한마지로
-    - 200+ solved\
-    - SolvedAC GOLD II Level
+   4. Handong AI Lab(HAIL)
+   5. Handong Computer Science Club 슬기짜기
+    - 300+ solved
+    - SolvedAC GOLD I Level
 
 ### - 🔈 I worked on ...
    1. Mobile App Development Project 같이카
@@ -18,7 +20,6 @@
     - With 현묵, 테크노니아
 
 ### - 🌱 I’m currently studying ...
-  - OS <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
   - Algorithm (language <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>)
   - DB(<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>)
   - Flutter ( <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> with <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=blue"/>)
