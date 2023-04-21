@@ -9,7 +9,7 @@
    2. Baekjoon SLE Group Study
    3. Handong Judo Club 한마지로
    4. Handong AI Lab(HAIL)
-   5. Handong Computer Science Club 슬기짜기
+   5. Handong Unsolved problem list project alone.
     - 300+ solved
     - SolvedAC GOLD I Level
 
@@ -18,6 +18,7 @@
     - With 지인, 상윤 (FINISH)
    2. YOLO Recycle Cup Returning AI Project
     - With 현묵, 테크노니아
+   3. Handong Computer Science Club 슬기짜기
 
 ### - 🌱 I’m currently studying ...
   - Algorithm (language <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>)
