@@ -5,25 +5,21 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fpqpsxh)](https://solved.ac/fpqpsxh)
  
 ### - 🔭 I'm currently working on ...
-   1. Handong Global University 17 CSEE
-   2. Baekjoon SLE Group Study
-   3. Handong Judo Club 한마지로
-   4. Handong AI Lab(HAIL)
-   5. Handong Unsolved problem list project alone.
+   1. Handong Unsolved problem list project alone.
     - 300+ solved
     - SolvedAC GOLD I Level
 
 ### - 🔈 I worked on ...
-   1. Mobile App Development Project 같이카
-    - With 지인, 상윤 (FINISH)
-   2. YOLO Recycle Cup Returning AI Project
-    - With 현묵, 테크노니아
-   3. Handong Computer Science Club 슬기짜기
+   1. Handong Computer Science Club 슬기짜기
+   2. Handong Global University 17 CSEE
+   3. Baekjoon SLE Group Study
+   4. Handong Judo Club 한마지로
+   5. Handong AI Lab(HAIL)
 
 ### - 🌱 I’m currently studied ...
   - Algorithm (language <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>)
   - DB(<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>)
-  - Flutter ( <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> with <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=blue"/>)
+  - Spring Boot ( <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>)
   - AI ( <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>)
 
 ### - 😄 Top Languages card
